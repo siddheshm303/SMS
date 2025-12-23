@@ -301,8 +301,7 @@ When contributing to this project:
 ## 👥 Contact
 
 For queries or support:
-- Email: sid303@gmail.com
-- Phone: +(91) 9090909090
+- Email: siddheshm303@gmail.com
 
 ---
 
